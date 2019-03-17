@@ -26,10 +26,7 @@
         "amphp/parser": "^1.0",
         "amphp/dns": "^0.9.9",
         "amphp/file": "^0.3.3",
-        "amphp/uri": "^0.1.3",
-        "amphp/http": "dev-master",
-        "amphp/websocket": "dev-master",
-        "amphp/websocket-client": "dev-master"
+        "amphp/uri": "^0.1.3"
     },
     "require-dev": {
         "phpdocumentor/reflection-docblock": "^3.1"
