@@ -12,10 +12,10 @@
         "php": ">=5.6.0",
         "danog/primemodule": "^1.0.3",
         "danog/magicalserializer": "^1.0",
-        "phpseclib/phpseclib": "dev-master#27370df",
+        "phpseclib/phpseclib": "^2.0",
         "vlucas/phpdotenv": "^2.4",
         "erusev/parsedown": "^1.6",
-        "rollbar/rollbar": "dev-master",
+        "rollbar/rollbar": "^1.7",
         "ext-curl": "*",
         "ext-mbstring": "*",
         "ext-json": "*",
@@ -24,11 +24,11 @@
         "amphp/socket": "^0.10.11",
         "amphp/log": "^1.0",
         "amphp/parser": "^1.0",
-        "amphp/dns": "dev-master#861cc857b1ba6e02e8a7439c30403682785fce96 as 0.9.9",
-        "amphp/file": "dev-master#5a69fca406ac5fd220de0aa68c887bc8046eb93c as 0.3.3",
-        "amphp/uri": "dev-master#f3195b163275383909ded7770a11d8eb865cbc86 as 0.1.3",
-        "amphp/websocket": "dev-master",
-        "amphp/websocket-client": "dev-master"
+        "amphp/dns": "^0.9.9",
+        "amphp/file": "^0.3.3",
+        "amphp/uri": "^0.1.3",
+        "amphp/websocket": "^0.2",
+        "amphp/websocket-client": "^0.2"
     },
     "require-dev": {
         "phpdocumentor/reflection-docblock": "^3.1"
